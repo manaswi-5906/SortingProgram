@@ -1,0 +1,17 @@
+PROJECT TITLE:Sorting Program using java
+
+Name:Manaswi Mugad
+Course:Computer Science Engineering
+
+INTRODUCTION:
+     This project demonstrates the concept of sortinf in java.
+     Sorting is used to arrange data in a specific order such as ascending or decending.
+
+OBJECTIVE:
+     -To understand sorting techniques
+     -To implement sorting using java
+     -To learn versioning using GitHub
+
+DESCRIPTION:
+       In this project,we have implemented a sorting program to arrange numbers in ascending order.
+       Different versions of the program arae created to show improvements and changes.
